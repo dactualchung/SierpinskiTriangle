@@ -33,7 +33,7 @@ public void draw()
   }
   lenSize++;
   lenSize2++;
-  println(lenSize);
+  //println(lenSize);
   if(lenSize >= 1200){
     lenSize = 600;
   }
